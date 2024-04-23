@@ -1,0 +1,2 @@
+# R-SC
+RİSC GİTHUB
